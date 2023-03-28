@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iss2580
-- 👀 I’m interested in React, Next, Python, django
+- 👀 I’m interested in Typescript, React, Next, Python, django
 - 🌱 I’m currently learning pandas, machine learning with python
 - 💞️ I’m looking to collaborate on non-profit interesting projects
 - 📫 reach me on email: issa2580 at gmail dot com
