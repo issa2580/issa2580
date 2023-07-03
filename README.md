@@ -1,4 +1,4 @@
-- # Hi there 👋, I am Rootkit 👨‍💻
+# Hi there 👋, I am Rootkit 👨‍💻
 
 A fullstack web developer living in Dakar, Senegal 🇸🇳
 
@@ -14,15 +14,15 @@ A fullstack web developer living in Dakar, Senegal 🇸🇳
 
 ## 🚀 Skills 🔝
 
-## 👀 Frontend 🔝
+## 🚀 Frontend 🔝
 
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" / <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-##  📫 Backend 🔝
+## 🚀 Backend 🔝
 
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-## 💞️ Extra 🔝
-
+## 🚀 Extra 🔝
 
 
 <!---
