@@ -16,7 +16,7 @@ A fullstack web developer living in Dakar, Senegal 🇸🇳
 
 ## 🚀 Frontend 🔝
 
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" / <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ## 🚀 Backend 🔝
 
