@@ -34,6 +34,8 @@ A fullstack web developer living in Dakar, Senegal 🇸🇳
 ## ✨ Daily ✨
 <a href="https://app.daily.dev/Rootkit"><img src="https://api.daily.dev/devcards/578d976dfd864ffca8fcf3b9dd1a0f24.png?r=btn" width="400" alt="Issa Diop's Dev Card"/></a>
 
+## ✨ OpenSauced ✨
+Check out my open-source contributions card! <a href="https://app.opensauced.pizza/user/issa2580/card"> via @saucedopen 
 
 
 <!---
