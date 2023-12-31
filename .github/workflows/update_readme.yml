@@ -27,8 +27,8 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: Melvynx
-          author_email: melvynmal@gmail.com
+          author_name: Rootkit
+          author_email: issadiop9408@gmail.com
           force: false
           signoff: false
           message: ':memo: README.md updated by Gabot'
