@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "20 15 * * *" # Runs every day at 5:00 PM UTC
+    - cron: "30 15 * * *" # Runs every day at 5:00 PM UTC
 
 jobs:
   update-readme:
@@ -42,6 +42,6 @@ jobs:
         run: |
           git config --local user.email "issadiop2580@gmail.com"
           git config --local user.name "issa2580"
-          git add README.md
+          git add .
           git commit -m "Automated README update"
           git push
