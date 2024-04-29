@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "10 16 * * *" # Runs every day at 5:00 PM UTC
+    - cron: "20 15 * * *" # Runs every day at 5:00 PM UTC
 
 jobs:
   update-readme:
@@ -13,13 +13,35 @@ jobs:
 
       - name: Update README
         run: |
-          # Your script to update the README file
-          echo "This is a test update." >> README.md
+          day=$(date +%A)
+          case $day in
+            "Monday")
+              echo "Happy Monday!" > README.md
+              ;;
+            "Tuesday")
+              echo "Happy Tuesday!" > README.md
+              ;;
+            "Wednesday")
+              echo "Happy Wednesday!" > README.md
+              ;;
+            "Thursday")
+              echo "Happy Thursday!" > README.md
+              ;;
+            "Friday")
+              echo "Happy Friday!" > README.md
+              ;;
+            "Saturday")
+              echo "Happy Saturday!" > README.md
+              ;;
+            "Sunday")
+              echo "Happy Sunday!" > README.md
+              ;;
+          esac
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "issadiop2580@gmail.com"
           git config --local user.name "issa2580"
-          git add .
+          git add README.md
           git commit -m "Automated README update"
           git push
