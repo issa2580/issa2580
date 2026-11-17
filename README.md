@@ -3,6 +3,8 @@
 
 A fullstack web developer living in Dakar, Senegal 🇸🇳
 
+### 📫 Contact
+
 <a href="https://api.whatsapp.com/send?phone=+221772352958&text=Hello%20Issa,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
@@ -12,8 +14,6 @@ A fullstack web developer living in Dakar, Senegal 🇸🇳
 <a href="https://www.linkedin.com/in/rootkit221" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-## 🛠️ Tech Stack
 
 ### 💻 Languages
 
