@@ -38,6 +38,9 @@ Last updated: Tue Nov 17 2026
 ## ✨ Open Source Contributed ✨
 Check out my open-source contributions card! <a href="https://app.opensauced.pizza/user/issa2580/card"> via @saucedopen</a>
 
+## 🏆 GitHub User Rankings: Senegal 🇸🇳
+Ranked among the top GitHub contributors in Senegal!
+
 [![gayanvoice/top-github-users/senegal](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/senegal/issa2580.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/senegal.md#issa2580)
 
 <!---
