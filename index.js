@@ -1,5 +1,4 @@
 const { promises: fs } = require("fs");
-const { exec } = require("child_process");
 const readme = require("./readme");
 
 const msInOneDay = 1000 * 60 * 60 * 24;
@@ -78,37 +77,6 @@ async function updateREADMEFile(text) {
   }
 }
 
-async function gitCommitAndPush() {
-  try {
-    const commands = [
-      "git add README.md",
-      'git config --global user.email "issadiop2580@gmail.com"',
-      'git config --global user.name "issa2580"',
-      'git commit -m ":memo: README.md updated by Gabot"',
-      "git push origin main",
-    ];
-
-    for (const command of commands) {
-      await new Promise((resolve, reject) => {
-        exec(command, (error, stdout, stderr) => {
-          if (error && !error.message.includes("nothing to commit")) {
-            console.error(`Error executing ${command}: ${error}`);
-            reject(error);
-            return;
-          }
-          console.log(`Executed: ${command}`);
-          console.log(stdout);
-          resolve();
-        });
-      });
-    }
-    console.log("Successfully pushed to GitHub");
-  } catch (error) {
-    console.error("Error during git operations:", error);
-    throw error;
-  }
-}
-
 async function main() {
   try {
     console.log("Starting README update...");
@@ -117,9 +85,6 @@ async function main() {
 
     await updateREADMEFile(newREADME);
     console.log("README.md updated successfully");
-
-    await gitCommitAndPush();
-    console.log("Changes pushed to GitHub");
   } catch (error) {
     console.error("Error in main process:", error);
     process.exit(1);
