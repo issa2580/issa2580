@@ -1,7 +1,5 @@
 module.exports = `
-# Hi there 👋, I am Rootkit 👨‍💻
-
-A fullstack web developer living in Dakar, Senegal 🇸🇳
+# Hi there 👋, I am Rootkit 👨‍💻 <br> <sub>A fullstack web developer living in Dakar, Senegal 🇸🇳</sub>
 
 ### 📫 Contact
 
@@ -30,9 +28,6 @@ A fullstack web developer living in Dakar, Senegal 🇸🇳
 ### 🚀 DevOps & Tools
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-
-## ✨ Daily ✨
-<a href="https://app.daily.dev/Rootkit"><img src="https://api.daily.dev/devcards/578d976dfd864ffca8fcf3b9dd1a0f24.png?r=btn" width="400" alt="Issa Diop's Dev Card"/></a>
 
 ## ⏰ Time Stats
 <#day_before_new_years>
